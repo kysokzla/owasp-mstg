@@ -1400,3 +1400,4 @@ To learn more, please refer to the [r2frida wiki](https://github.com/enovella/r2
 - Reverse Engineering tools for iOS Apps - <http://iphonedevwiki.net/index.php/Reverse_Engineering_Tools>
 - Swizzler project - <https://github.com/vtky/Swizzler2/>
 - Xcode command line developer tools - <https://railsapps.github.io/xcode-command-line-tools.html>
+ 

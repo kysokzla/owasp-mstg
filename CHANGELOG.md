@@ -2,6 +2,10 @@
 
 This document is automatically generated at {{gitbook.time}}
 
+## v 2.0 2 March 2020
+
+Срез ветки для полноценного перевода, сделал отдельную ветку ruin для грамотного версионирования перевода. 
+
 ## v1.1.3 2 August 2019
 
 - Updated Acknowledgments, with 2 new co-authors.
